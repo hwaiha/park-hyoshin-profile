@@ -1,3 +1,3 @@
 # park-hyoshin-profile
 
-It's a profile of a Korean singer Park Hyoshin.
+This is a profile of a Korean singer Park Hyoshin.
